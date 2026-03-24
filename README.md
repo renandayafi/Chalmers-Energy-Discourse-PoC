@@ -3,7 +3,7 @@
 # Sociotechnical Discourse Network Analyzer (DNA)
 **A Computational Proof of Concept for Mapping Consensus and Conflict in Energy Transitions**
 
-![Sociotechnical Network Graph]([https://github.com/renandayafi/Chalmers-Energy-Discourse-PoC/blob/main/graph.png])
+![Sociotechnical Network Graph](graph.png)
 
 ## Abstract: Operationalizing STS Methodology
 This repository contains a Python-based pipeline designed to empirically map the political dynamics and sociotechnical friction of the energy transition. 
